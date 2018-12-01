@@ -1,2 +1,2 @@
 def cashback(amount):
-    return 0
+    return amount * 0.05
